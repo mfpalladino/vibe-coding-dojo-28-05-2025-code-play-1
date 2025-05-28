@@ -1,6 +1,7 @@
 # Livro Jogo - Vibe Coding Dojo durante o Code & Play
 
 Este projeto é um livro-jogo interativo desenvolvido durante um Vibe Coding Dojo com [Amazon Q Developer CLI](https://bit.ly/amazon-q-dev-brasil) no Code & Play 2025. O objetivo é criar uma experiência de leitura não-linear onde o leitor pode tomar decisões que afetam o desenrolar da história.
+
 ![Início do jogo](images/start.png)
 
 ![Grupo](images/group.jpeg)
