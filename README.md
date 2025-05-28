@@ -4,7 +4,7 @@ Este projeto é um livro-jogo interativo desenvolvido durante um Vibe Coding Doj
 
 ![Início do jogo](images/start.png)
 
-![Grupo](images/group.png)
+![Grupo](images/group.jpeg)
 
 ![Início do jogo](images/memories.png)
 
