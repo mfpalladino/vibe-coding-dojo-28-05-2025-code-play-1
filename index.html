@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Livro Jogo - Vibe Coding Dojo - Code & Play</title>
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css">
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <div class="container">
+        <header>
+            <h1 id="title">Livro Jogo - Vibe Coding Dojo</h1>
+            <h1 id="title">Code & Play 2025</h1>
+            <div id="status-bar">
+                <div id="player-stats">
+                    <!-- Estatísticas do jogador serão exibidas aqui -->
+                </div>
+                <div id="inventory">
+                    <!-- Inventário será exibido aqui -->
+                </div>
+            </div>
+        </header>
+        
+        <main>
+            <div id="story-container">
+                <p id="story-text">Bem-vindo à sua aventura! Clique em "Iniciar" para começar.</p>
+                <div id="image-container">
+                    <!-- Imagens relacionadas à história serão exibidas aqui -->
+                </div>
+            </div>
+            
+            <div id="choices-container">
+                <!-- As escolhas serão geradas dinamicamente aqui -->
+                <button id="start-button" class="choice-button">Iniciar</button>
+            </div>
+        </main>
+        
+        <footer>
+            <p>Criado com ❤️ usando Amazon Q Developer CLI durante o Code & Play 2025</p>
+        </footer>
+    </div>
+    
+    <script src="story.js"></script>
+    <script src="game.js"></script>
+</body>
+</html>
